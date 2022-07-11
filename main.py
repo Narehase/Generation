@@ -3,7 +3,7 @@ from time import sleep
 import cv2
 import numpy as np
 
-#목표 
+#목표 : 모든 값이 [1,1,1,1]이 되는것이 최종  
 def solt(list_,c):
     put = []
     put_raw = []
